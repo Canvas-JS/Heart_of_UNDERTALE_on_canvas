@@ -1,3 +1,4 @@
+// создаём сердце из Undertale на канвасе.
 const canvas = document.querySelector('#canvas');
 console.log(canvas);
 
